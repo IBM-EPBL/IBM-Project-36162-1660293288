@@ -1,9 +1,0 @@
-
-
-	MODEL(SIGN.h5)
-
-
-
-
-
-https://drive.google.com/file/d/1o9qs4rt_X3yNFMJ22I_nj4zJVpBj2g0g/view?usp=share_link
